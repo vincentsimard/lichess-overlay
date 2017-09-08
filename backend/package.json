@@ -1,0 +1,11 @@
+{
+  "author": "Vincent Simard",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "description": "lichess-overlay backend",
+  "license": "",
+  "main": "index.js",
+  "name": "lichess-overlay",
+  "version": "0.0.1"
+}
